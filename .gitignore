@@ -1,0 +1,17 @@
+# KiCad
+*-backups/
+_autosave-*
+\#auto_saved_files\#
+*.lck
+*.kicad_prl
+fp-info-cache
+*.bak
+*.bck
+*.kicad_sch-bak
+*.kicad_pcb-bak
+*-cache.lib
+*-rescue.lib
+*.net
+*.xml
+*.dsn
+*.ses
